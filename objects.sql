@@ -1,4 +1,4 @@
-DROP DATABASE runat;
+-- DROP DATABASE runat;
 CREATE DATABASE runat;
 USE runat;
 -- SHOW TABLES;
